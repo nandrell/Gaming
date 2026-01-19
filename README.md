@@ -13,7 +13,7 @@
 
 ## 📁 **Computer Programming 4 - Submissions**
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VuYWlkaTY4eXdsNWZwaTZyMWcyb3Nlamp4N2wzNnNvem84aHp5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="420">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VuYWlkaTY4eXdsNWZwaTZyMWcyb3Nlamp4N2wzNnNvem84aHp5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="220">
 </div>
 
 ---
